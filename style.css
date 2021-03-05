@@ -220,11 +220,12 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/8.jpg") no-repeat center;
+    background: url("images/8.jpg") ;
     height: 100vh;
     color: #fff;
     min-height: 500px;
     background-size: cover;
+    background-position: center;
     background-attachment: fixed;
     font-family: 'Ubuntu', sans-serif;
 }
@@ -865,8 +866,8 @@ footer span a:hover{
     .home{
         display: flex;
         background: url("images/8.jpg") ;
-        background-position: center;
-        background-size: 500px 300px;
+        background-position: left 30%;
+        background-size: cover;
     }
 
     .about .about-content .right .text,
