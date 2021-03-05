@@ -821,12 +821,12 @@ footer span a:hover{
     .menu-btn i.active:before{
         content: "\f00d";
     }
-    .home{
+    /* .home{
         display: flex;
         background: url("images/8.jpg") ;
         background-position: center;
         background-size: 900px 600px;
-    }
+    } */
 
     #home > div > div > b > div > p{
         font-size: 60px;
