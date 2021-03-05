@@ -866,7 +866,7 @@ footer span a:hover{
     .home{
         display: flex;
         background: url("images/8.jpg") ;
-        background-position: left 30%;
+        background-position: 15% 65%;
         background-size: cover;
     }
 
