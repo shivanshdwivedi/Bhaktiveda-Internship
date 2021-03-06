@@ -666,6 +666,11 @@ section .title::after{
     position:absolute;
 }
 
+.info-sub{
+    font-weight: 500;
+    font-size: 16px;
+}
+
 @media(min-width: 480px){
     .responsive{
         display: none;
