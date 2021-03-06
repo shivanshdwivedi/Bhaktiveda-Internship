@@ -136,6 +136,11 @@ section .title::after{
     font-family: 'Ubuntu', sans-serif;
     transition: all 0.3s ease;
 }
+
+.navbar-brand{
+    color: #ffffff !important;
+    font-weight: 500 !important;
+}
 .navbar.sticky{
     padding: 30px 0;
     background: darkblue;
@@ -297,6 +302,12 @@ section .title::after{
 }
 .about .about-content .right{
     width: 55%;
+}
+
+.text{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 10px;
 }
 .about .about-content .right .text{
     font-size: 25px;
