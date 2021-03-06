@@ -264,7 +264,7 @@ section .title::after{
 }
 .home .home-content a{
     display: inline-block;
-    background: darkblue;
+    background: #031446;
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
@@ -297,7 +297,7 @@ section .title::after{
   color: white;
   opacity: 1;
   font-size: 90px ;
-  font-weight: : 600;
+  font-weight:  600;
 }
 #home > div > div > b > div > p > span{
   font-size: 30px;
@@ -347,7 +347,7 @@ section .title::after{
 }
 .about .about-content .right a{
     display: inline-block;
-    background: darkblue;
+    background: #031446;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
@@ -391,7 +391,7 @@ section .title::after{
 }
 .abou .about-content .right a{
     display: inline-block;
-    background: darkblue;
+    background: #031446;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
@@ -435,7 +435,7 @@ section .title::after{
 }
 .abo .about-content .right a{
     display: inline-block;
-    background: darkblue;
+    background: #031446;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
@@ -522,7 +522,7 @@ section .title::after{
 }
 .skills .skills-content .left a{
     display: inline-block;
-    background: darkblue;
+    background: #031446;
     color: #fff;
     font-size: 18px;
     font-weight: 500;
