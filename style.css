@@ -46,6 +46,24 @@ section{
     padding: 0 80px;
     margin: auto;
 }
+
+.width-mid{
+    margin-left: auto !important; 
+    margin-right: auto !important;
+}
+
+/* .reg-mid{
+    margin-left: auto !important; 
+    margin-right: auto !important;
+} */
+
+
+@media(min-width: 860px){
+   
+    .reg-mid{
+        margin-left: 180px !important;
+    }
+}
 .about, .services, .skills, .teams, .contact, footer{
     font-family: 'Poppins', sans-serif;
 }
