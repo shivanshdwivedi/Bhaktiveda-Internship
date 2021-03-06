@@ -47,6 +47,13 @@ section{
     margin: auto;
 }
 
+.trans-wid{
+    padding-left: 20px;
+    padding-right: 20px;
+    border-bottom-width: 20px;
+    padding-bottom: 30px;
+}
+
 .width-mid{
     margin-left: auto !important; 
     margin-right: auto !important;
