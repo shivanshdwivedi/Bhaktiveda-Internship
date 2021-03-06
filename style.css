@@ -54,10 +54,18 @@ section{
     padding-bottom: 30px;
 }
 
+@media(max-width: 480px){
+    .trans-wid{
+        padding-left: 0px;
+    }
+}
+
 .width-mid{
     margin-left: auto !important; 
     margin-right: auto !important;
 }
+
+
 
 /* .reg-mid{
     margin-left: auto !important; 
