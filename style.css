@@ -54,7 +54,7 @@ section{
     padding-bottom: 30px;
 }
 
-@media(max-width: 480px){
+@media(max-width: 560px){
     .trans-wid{
         padding-left: 0px;
     }
