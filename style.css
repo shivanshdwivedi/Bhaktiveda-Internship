@@ -58,6 +58,10 @@ section{
     .trans-wid{
         padding-left: 0px;
     }
+
+    .transbox .elig{
+       display: none;
+    }
 }
 
 .width-mid{
@@ -704,6 +708,13 @@ section .title::after{
     font-size: 16px;
 }
 
+@media(min-width:860px){
+    .hide-off{
+        display: none;
+    }
+}
+
+
 @media(min-width: 480px){
     .responsive{
         display: none;
@@ -899,6 +910,12 @@ footer span a:hover{
     }
 }
 
+@media(min-width: 860px){
+    .hideout{
+        display: none;
+    }
+}
+
 @media(max-width: 500px) {
     #home > div > div > b > div > p{
         font-size: 50px;
@@ -906,7 +923,7 @@ footer span a:hover{
     #home > div > div > b > div > p
 
      span{
-      font-size: 15px;
+      font-size: 20px;
 
     }
     #home > div > div > b > div > p > span:nth-child(3){
