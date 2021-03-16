@@ -54,7 +54,7 @@ section{
     padding-bottom: 30px;
 }
 
-@media(max-width: 560px){
+@media(max-width: 480px){
     .trans-wid{
         padding-left: 0px;
     }
@@ -893,6 +893,7 @@ footer span a:hover{
     }
     #home > div > div > b > div > p > span{
       font-size: 20px;
+     
 
     }
       #home > div > div > b > div > p > span:nth-child(3){
@@ -916,14 +917,27 @@ footer span a:hover{
     }
 }
 
+
+@media(max-width:560px){
+    .spacemob{
+        line-height: 40px !important;
+    }
+}
+
 @media(max-width: 500px) {
     #home > div > div > b > div > p{
         font-size: 50px;
+       
     }
     #home > div > div > b > div > p
 
      span{
-      font-size: 20px;
+      font-size: 27px;
+      line-height: normal !important;
+      font-weight: 600;
+      display: inline-block;
+      margin-top: 0px;
+      margin-bottom: 0px;
 
     }
     #home > div > div > b > div > p > span:nth-child(3){
