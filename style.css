@@ -291,10 +291,16 @@ section .title::after{
     background: none;
 }
 .home .home-content .transbox{
-  margin: 40px;
+    margin: 40px;
 
     background-color: #8B00007f ;
 
+}
+
+@media(min-width: 1080px){
+    .transbox{
+        margin: 0px !important;
+    }
 }
 
 .home .home-content .transbox .p{
